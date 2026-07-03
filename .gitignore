@@ -1,0 +1,11 @@
+.env
+*.pyc
+__pycache__/
+data/raw/
+data/frames/
+data/crops/
+checkpoints/
+*.egg-info/
+.pytest_cache/
+wandb/
+.ipynb_checkpoints/
